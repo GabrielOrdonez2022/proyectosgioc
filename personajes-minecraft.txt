@@ -1,0 +1,2 @@
+Leer el archivo README.md para despejar dudas.
+Nota: app.py va dentro de esta carpeta.
