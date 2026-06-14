@@ -1,1 +1,1 @@
-Dentro de la carpeta creaciones tengo varios proyectos realizados de forma autodidacta
+Dentro de la carpeta creaciones esta el proyecto
